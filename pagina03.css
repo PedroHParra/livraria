@@ -1,0 +1,66 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8f3f8;
+    color: #333;
+    margin: 0;
+}
+
+header {
+    background-color: #1d5d78;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+nav {
+    background-color: #123f52;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+
+nav a:hover {
+    color: #8ed0e8;
+}
+
+main {
+    width: 75%;
+    margin: 30px auto;
+}
+
+section {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #1d5d78;
+}
+
+.personagem {
+    background-color: #e1f0f5;
+    padding: 10px 20px;
+    margin-top: 15px;
+    border-left: 4px solid #1d5d78;
+}
+
+footer {
+    background-color:lightblue;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
